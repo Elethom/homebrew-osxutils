@@ -2,6 +2,12 @@
 
 Utilities for OS X.
 
+## Available Taps
+
+### contacts-phonetic
+
+Add phonetic names to contacts. Supports all CJK characters and multiple formats.
+
 ## Usage
 
 Add tap:
