@@ -4,7 +4,7 @@ Utilities for OS X.
 
 ## Available Taps
 
-### contacts-phonetic
+### [contacts-phonetic](https://github.com/Elethom/contacts-phonetic)
 
 Add phonetic names to contacts. Supports all CJK characters and multiple formats.
 
